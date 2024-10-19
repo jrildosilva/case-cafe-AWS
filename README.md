@@ -2,6 +2,7 @@
 
 * Autor: José Rildo
 * [Github](https://github.com/jrildosilva/case-cafe-AWS)
+* [Café-AWS](https://github.com/jrildosilva/case-cafe-AWS/edit/master/README.md) 
 
 **Descrição:**
 Desenvolver uma arquitetura que temple os seguintes requisitos;
